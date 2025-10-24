@@ -15,7 +15,7 @@ hi, i'm advi :)
 
 ---
 
-![Snake animation](https://github.com/codewithadvi/codewithadvi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/codewithadvi/codewithadvi/output/github-contribution-grid-snake.svg)
 
 [![](https://visitcount.itsvg.in/api?id=codewithadvi&icon=0&color=0)](https://visitcount.itsvg.in)
 
