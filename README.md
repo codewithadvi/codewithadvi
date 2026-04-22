@@ -1,21 +1,4 @@
 
-<div align="center">
-
-<!-- Animated Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Advithiya Duddu+%F0%9F%9A%80;AI+Engineer+%7C+Production+Systems;Research+%40+IIT+Roorkee+%7C+Samsung+%7C+Atlan" alt="Typing SVG" />
-</a>
-
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Realm&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-
 # About Me:
 hi, i'm advi :) 
 
