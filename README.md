@@ -6,7 +6,7 @@ hi, i'm advi :)
 
 <div align="center">
 
-## ⚙️ Engineering Stack
+## Engineering Stack
 
 ### AI / ML & Deep Learning
 <p>
