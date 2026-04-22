@@ -2,10 +2,6 @@
 # About Me:
 hi, i'm advi :) 
 
-
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/advithiya-duddu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advithiya.duddu@gmail.com) 
-
 <div align="center">
 
 <div align="center">
