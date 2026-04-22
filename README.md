@@ -67,5 +67,13 @@ hi, i'm advi :)
 [![](https://raw.githubusercontent.com/codewithadvi/codewithadvi/main/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/codewithadvi/codewithadvi/main/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/codewithadvi/codewithadvi/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/codewithadvi/codewithadvi/main/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/codewithadvi/codewithadvi/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 
