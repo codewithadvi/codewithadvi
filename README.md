@@ -1,8 +1,6 @@
 
 # About Me:
-hi, i'm advi :) 
-
-<div align="center">
+hi, i'm advi :)
 
 <div align="center">
 
